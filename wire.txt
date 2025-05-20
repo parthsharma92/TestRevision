@@ -6,8 +6,7 @@ This wire is connected to Pen
 This 1st bad writing
 
 
-<<<<<<< HEAD
 
-=======
+
 Testing another commit at dev local
->>>>>>> dev
+
